@@ -1,5 +1,3 @@
-# 1. use command sl TodoApp
-# 2. use command python -m streamlit run todosWeb.py 
 import streamlit as st
 import functions
 

@@ -1,4 +1,4 @@
-FILEPATH = "C:/Users/carls/Udemy Python Course Practice/TodoApp/todos.txt"
+FILEPATH = "todos.txt"
 
 
 def get_todos(filepath=FILEPATH):
